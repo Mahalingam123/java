@@ -71,19 +71,19 @@ public class loop {
 { System.out.println("sorry");
 
 }*/
-/*Scanner scan = new Scanner(System.in);
-int number = scan.nextInt();
-int number1 =scan.nextInt();
-System.out.println("number 1="+number);
-System.out.println("number 2="+number1);
-if (number> number1)
+Scanner scan = new Scanner(System.in);
+System.out.println("Enter number 1");
+int num1 = scan.nextInt();
+System.out.println("Enter number 1");
+int num2 =scan.nextInt();
+if (num1> num2)
 {
-    System.out.println("this is larger than number 2");
+    System.out.println("this is larger  number "+num1);
 }
 else
 {
-System.out.println(" number 2 is larger than number 1");
-}*/
+System.out.println(" number 2 is larger number 1");
+}
 /*Scanner vote =new Scanner(System.in);
 int a =vote.nextInt();
 System.out.println(" Enter your age ="+a);
@@ -122,7 +122,7 @@ System.out.println();
      System.out.println(("else it has realroot"+realroot+"and imaginaary root"+imaginaryroot));
  }*/
  
-Scanner scan =new Scanner(System.in);
+/*Scanner scan =new Scanner(System.in);
 double num1 =scan.nextDouble();
 System.out.println("Enter a number "+ num1);
 double num2= scan.nextDouble();
@@ -148,9 +148,10 @@ else
 {
     System.out.println(num1/num2);
 }
-
+*/
 
 
  }
     
  }
+

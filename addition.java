@@ -7,8 +7,9 @@ class addition{
     System.out.println(10-2);
     //multiplication
     System.out.println(10*2);
-    //Division
-    System.out.println(10%2) ;  
+    //modulation
+    System.out.println(10%2) ;
+    //Division  
     System.out.println(10/2);
 }
 }
